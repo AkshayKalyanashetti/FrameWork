@@ -1,5 +1,0 @@
-Alert Text: None
-Message: unexpected alert open: {Alert text : Do you want to cancel the process of adding new customer and discard already entered data?}
-  (Session info: chrome=75.0.3770.142)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
-

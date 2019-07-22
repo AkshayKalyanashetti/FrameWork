@@ -10,7 +10,6 @@ class TaskScreen(WebGeneric):
         self.wg = WebGeneric(self.driver)
 
     def task(self):
-
         self.wg.submit("xpath",'//*[@id="topnav"]/tbody/tr[1]/td[3]/a/div[1]')
         self.wg.submit("xpath", '//div[text()="Add New"]')
         self.wg.submit("xpath", "//div[text()='+ New Customer']")
