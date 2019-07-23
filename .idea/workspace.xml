@@ -2,110 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aa771f9-20b4-4be8-81b6-da96d0f94e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/LocatorsGeneric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/LocatorsGeneric.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0578be4c-31ab-4825-abe6-45584eead978-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/060e1a1f-33a3-43cb-abcc-1f43210feea8-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/06ccfc1f-282b-4b96-aa9c-0f20f6a349c3-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0abef88f-5ea6-4f3c-a50c-69f10de198b4-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0ccbee35-73f4-4d06-9f9d-741e765fe772-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0cd78abd-752f-48ed-b4bb-140e4898e5f3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0ecbcd8e-32be-4c4f-9758-8f6af48fd8ba-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0ed71142-a934-4698-b446-6c3c0e7708f6-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/0f1b059d-99f2-4e5d-9f68-f25fd7a376f8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/1068ae2b-735b-4d8d-bafe-178c81cba572-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/161351d5-5a68-4c18-8c6a-9b0788ba4905-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/1931b5de-9dd0-46a9-9d3e-cf1ccaddce4f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/1f08b0eb-b621-4c21-8d0a-85442abafdce-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/226de955-ce27-4955-bd60-26136ad2afab-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/22daf2ea-1136-4832-99c6-975b61e13a41-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/258af8bb-4f16-4e9d-bc3a-e4b5190e4e11-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/287e5ffb-adf9-434d-873e-94e6dd1bbfa7-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/29f6a750-3e1a-48ec-bb91-6db6ed14291e-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/2ef656be-7bc7-49f5-bff3-2c1d89e9c954-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/31dbdc67-9aff-4f60-8e93-55c79ba79d97-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/320ad0d0-6e69-44ee-bb5e-5d6f96d01009-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/37160f89-c04b-4882-8c27-d026892ee33c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4118c609-29c0-4229-95e3-a3fc1315b402-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/41bf1297-5f24-4fcb-91ba-90aeee878748-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/43a0fefd-818c-4913-82cb-e1a17fbdc3b8-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/47c0e962-4144-4611-a0f8-a71455d5cc5e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/47e190d6-2d4e-4e03-be96-4a233fecb885-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/48ab3a3d-70ba-411c-8156-390427c0de26-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4ae21135-da40-4677-9772-0bb191f371dc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4c14e9a6-4c51-4cf7-8fe6-21a6d0a57016-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/4f6c8760-84ec-44b7-a619-32d750ae2ac2-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/561c3e26-34f4-4ecc-9f88-7c86288e642f-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/56bc3e30-717d-4b86-92a1-6fab0c15fc6a-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/59fa82ce-675b-4b5c-9f08-c8737ed77b1b-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/5a60a481-981f-44f9-b581-a1af2828d1d2-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/63a1a876-f569-4dc6-9efb-83af7d6e5555-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/64261092-1251-4347-b52b-adf4c6f4bada-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/646f71a7-6069-41be-aca0-85a64325a9b2-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/64dd3b24-8453-4910-b702-ad888582c5f0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/651c48d0-7a01-4378-a70c-c7f5bcb9d08b-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6834b75f-1382-40e6-8631-b4e35fb4a4bc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/695cbc0e-528d-475f-825b-2c7a7018afb5-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6e693e37-988d-43fc-a25b-f415a955c10b-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/6ebf4c09-a22a-4de6-ab9c-c5c23a3a5864-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/70520af6-aff5-44ae-af49-015d12262b09-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/7511a368-3f2f-4f51-9064-392a2a440ffb-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/79cd4268-ebef-4caf-8a0d-bcd21154031d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/7cadfb9c-df43-4dd5-a601-787fcc36a562-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/7e7b7dba-b213-494c-9967-d9a1b70a65c0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/7f527556-0002-453e-91b4-47d60c8b0028-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/837d12b6-ac4b-429c-8bb9-442c8ddab4b7-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/851ee9c6-571a-4c86-aae0-fd4ec81c6318-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8b4c7556-461a-45fd-9a4b-43987f7c9891-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8c2b62aa-0751-46b7-bedb-093d8fdd2c92-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8c6f9d88-0324-4bd9-b6b5-31de6a5f4159-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8cf25510-982c-4951-b896-1344ab61774a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8e2425d3-2d22-4300-b28e-62a3c4da4f04-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/8f38eda8-0d13-4b23-ada8-03ff5493ae49-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/91adc3db-36ab-47ff-986f-6d30b17ed52b-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/970f3430-1719-4587-8dba-859af9002d27-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/98d073db-ef81-4e20-92b1-c55108414631-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/9a443064-40b7-4624-a3ed-5d21cdb122a6-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/9f4958a2-10f6-4d1f-ba62-0dafa61e7a39-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a0dbd2d9-0a06-4e97-8c1d-a09bd061e2d5-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a59f56e1-b274-43e3-bd3b-1d688ea32c07-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a63a1d6d-e2c0-4c77-bf38-d726c7269206-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a90e903c-8b93-47b3-bb40-e1a62c39813b-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/a98a08c4-a62a-4dd6-9f42-ab7508ec94d0-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/ae2f5172-0a17-440d-bf4f-694c80effece-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/b1463716-9f8e-4a11-a635-f24cff30b5c9-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/b311537a-fd7d-4687-b7f2-eb7c44cdd3da-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/b3226448-5fc4-4c95-94cd-cee25f0c1954-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/b7edceaa-d737-4557-93a1-30e14be752f9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/baea23f9-6baa-4792-8dd5-7a1249a133c1-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c050963f-f492-46f4-9ba8-91f16691d3e1-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c0804037-65e4-4769-a180-c78da209eab3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c1d4f57c-a5fc-4ab5-b944-2411fff4e18e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c1f00c59-36e4-4616-84a0-97b8bf7f571a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/c5099cae-11e7-4f68-aed3-8b66831f20fa-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/cc6701c7-1fb6-4364-b53e-aa1f725bf9b0-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/cd59fb0e-3bb1-4046-8830-bec9d93c6870-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d096f81f-f27f-4359-96eb-5285bf28bc43-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d17c97a8-eccf-4596-b7f3-d6cd09833f1a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d52ca848-3252-48b4-accc-41a327045a86-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d5888b86-596a-40c2-8f9c-2d903647aafa-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/d7da8b86-31e3-4f31-8008-ef726ee60aa6-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/da5fdf25-5d70-464b-9401-c55d13b6ee80-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/dbf08681-fd58-4d9a-a4c0-80814b9bfa7a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e0443299-874f-4a8b-9078-a2772fbf3610-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e1107821-e9b1-4ac3-b1aa-ed3e2af14981-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e18cdb62-178e-4486-9959-b5167e72bb4e-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e1bc02dd-5da6-4630-a602-9e51ea5f244d-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e429231a-1dfc-4a4a-9c9f-acd2c32f2378-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/e57c7bff-a806-46c9-874e-227d6610a658-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/ea063183-bc89-465b-9394-43b55e40e24d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/eb0f7564-b287-4aa2-9732-09f7ad259648-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/ee4249f7-0ada-45cc-93b0-2b1ee78c89d6-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/ef64786f-0b46-4092-92b7-0b89fcf47031-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/f380cc80-4053-4a10-a195-992c34985743-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/f9cadda0-eb18-4af8-8799-2f8fd4bf29c3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/fd3fe049-081f-47ff-873e-f5285c267983-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/WebGeneric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/WebGeneric.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="396">
               <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -140,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="36">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -164,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/LocatorsGeneric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            <state relative-caret-position="194">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -185,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/WebGeneric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="18">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -194,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pages/Task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="104">
+              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -206,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/Logout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="198">
               <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
             </state>
           </provider>
@@ -241,11 +141,11 @@
         <option value="$PROJECT_DIR$/Data/data.py" />
         <option value="$PROJECT_DIR$/Excel/read.py" />
         <option value="$PROJECT_DIR$/Pages/Login.py" />
-        <option value="$PROJECT_DIR$/Pages/WebGeneric.py" />
         <option value="$PROJECT_DIR$/Test/test_login.py" />
-        <option value="$PROJECT_DIR$/Pages/Task.py" />
         <option value="$PROJECT_DIR$/Pages/LocatorsGeneric.py" />
+        <option value="$PROJECT_DIR$/Pages/WebGeneric.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/Pages/Task.py" />
       </list>
     </option>
   </component>
@@ -261,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,6 +197,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,9 +265,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2611658" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -403,16 +302,9 @@
     <entry file="file://$PROJECT_DIR$/Reports/6e238240-c624-4a26-8b59-ca19d4dc0cb5-result.json" />
     <entry file="file://$PROJECT_DIR$/Reports/4601ab91-8e92-4629-8510-52b6486f0590-attachment.txt" />
     <entry file="file://$PROJECT_DIR$/Reports/7f61aa54-2c15-4cc3-b985-1d1dbe85de0d-result.json" />
-    <entry file="file://$PROJECT_DIR$/Data/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="396">
           <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
@@ -420,10 +312,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/Logout.py">
+    <entry file="file://$PROJECT_DIR$/Data/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="18">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -434,6 +326,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Logout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/HomeScreen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -441,29 +340,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/WebGeneric.py">
+    <entry file="file://$PROJECT_DIR$/Pages/LocatorsGeneric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="194">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/Task.py">
+    <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/LocatorsGeneric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        <state relative-caret-position="36">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -478,13 +370,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
+    <entry file="file://$PROJECT_DIR$/Pages/WebGeneric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="18">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>

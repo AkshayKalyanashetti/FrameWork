@@ -18,7 +18,7 @@ class TaskScreen(WebGeneric):
         self.wg.submit("xpath","//div[@class='emptySelection']")
         import time
         time.sleep(5)
-        #self.wg.submit("xpath", '//*[@id="customerLightBox_content"]/div[3]/div[2]/div[2]')
+        self.wg.submit("xpath", '//*[@id="customerLightBox_content"]/div[3]/div[2]/div[2]')
         self.wg.alert()
         #time.sleep(2)
         #var1.accept()

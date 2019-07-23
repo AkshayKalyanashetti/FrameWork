@@ -63,4 +63,3 @@ class LocatorGeneric:
             #sos.getcwd().replace("\\", "/").replace("pages", "") + "/screenshots/" + screenshot_name + ".png")
 
 
-

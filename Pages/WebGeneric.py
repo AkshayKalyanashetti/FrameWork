@@ -18,6 +18,8 @@ class WebGeneric(LocatorGeneric):
     def alert(self):
         self.driver.switch_to_alert().accept()
 
+    def scroll(self):
+        self.driver.execute_script("window.scrollBy(0, 500)","")
 
     def submit(self,locator_type, locator_val):
         #wait = WebDriverWait(self.driver, 40)
@@ -26,5 +28,6 @@ class WebGeneric(LocatorGeneric):
         #wait.until(EC.element_to_be_clickable(var))
         var.click()
         self.get_screenshot("Entered " + locator_val + " in text field")
+
 
 

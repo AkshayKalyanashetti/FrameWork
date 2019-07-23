@@ -1,6 +1,6 @@
 import pytest
 import os
-@pytest.fixture(scope='function')
+@pytest.fixture(scope='class')
 def pre_and_post_action(request):
     from selenium import webdriver
     dir = os.getcwd() + "\\Drivers"
