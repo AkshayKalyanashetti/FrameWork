@@ -5,7 +5,7 @@ class TaskScreen(WebGeneric):
     def __init__(self, driver):
         WebGeneric.__init__(self, driver)
         self.driver = driver
-        self.user_name = '//input[@class="inputFieldWithPlaceholder newNameField inputNameField"]'
+        self.user_name = '//input[@class="inputFieldWithPlaceholder"]'
         self.user_descrip = "//textarea[@placeholder='Enter Customer Description']"
         self.wg = WebGeneric(self.driver)
 
@@ -20,5 +20,3 @@ class TaskScreen(WebGeneric):
         time.sleep(5)
         self.wg.submit("xpath", '//*[@id="customerLightBox_content"]/div[3]/div[2]/div[2]')
         self.wg.alert()
-        #time.sleep(2)
-        #var1.accept()

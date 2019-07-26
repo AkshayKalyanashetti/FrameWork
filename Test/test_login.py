@@ -5,6 +5,7 @@ from Pages.HomeScreen import *
 import pytest
 @pytest.mark.usefixtures('pre_and_post_action')
 class Test_login:
+    @pytest.mark.smoke
     def test_actitime(self):
         driver= self.driver
         lp = LoginPage(driver)
@@ -14,13 +15,13 @@ class Test_login:
         driver = self.driver
         hm = HomeTime(driver)
         hm.homescreen()
-
+    @pytest.mark.smoke
     def test_task(self):
         driver = self.driver
         tk = TaskScreen(driver)
         tk.task()
 
-
+    @pytest.mark.smoke
     def test_logout(self):
         driver = self.driver
         lout = HomeScreen(driver)

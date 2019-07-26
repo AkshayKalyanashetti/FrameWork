@@ -1,6 +1,4 @@
-from Data.data import *
 from Pages.WebGeneric import WebGeneric
-from Pages.LocatorsGeneric import *
 class LoginPage(WebGeneric):
     def __init__(self,driver):
         WebGeneric.__init__(self,driver)
